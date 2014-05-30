@@ -1,7 +1,7 @@
 {
   "name": "minimatch",
   "main": "minimatch.js",
-  "version": "0.2.14",
+  "version": "0.3.0",
   "homepage": "https://github.com/isaacs/minimatch",
   "authors": [
     "Isaac Z. Schlueter <i@izs.me>"
